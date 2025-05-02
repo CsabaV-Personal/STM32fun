@@ -1,0 +1,10 @@
+09:59:15 **** Incremental Build of configuration Debug for project F429ZIT6_Blink ****
+make -j8 all 
+arm-none-eabi-size  F429ZIT6_Blink.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11212	    104	   2048	  13364	   3434	F429ZIT6_Blink.elf
+Finished building: default.size.stdout
+ 
+
+09:59:15 Build Finished. 0 errors, 0 warnings. (took 319ms)
+
